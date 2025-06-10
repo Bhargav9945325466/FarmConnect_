@@ -1,0 +1,136 @@
+[
+  {
+    "id": "81341a1c-8938-4aa8-adcb-d59b31fd59d0",
+    "name": "Amit Traders",
+    "phone": "8765432101",
+    "businessName": "Amit Fresh Produce",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "address": "KR Market, Bangalore",
+    "interestedCrops": [
+      "Tomato",
+      "Potato",
+      "Onion"
+    ],
+    "businessType": "Wholesale",
+    "password": "$2a$10$ybnjYn8Ux1S2KWljueWGeuFVWPdNj0jnVrK2.xbc1tY7g9XKUsiWW",
+    "userType": "buyer",
+    "language": "en",
+    "isActive": true,
+    "businessLicense": "WHL-KAR-2023-001",
+    "establishedYear": 2015,
+    "createdAt": "2025-05-29T02:54:23.720Z"
+  },
+  {
+    "id": "d47aa8d3-b3df-4b24-8440-57fd3836785a",
+    "name": "Priya Sharma",
+    "phone": "8765432102",
+    "businessName": "GreenMart",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "address": "Vashi Market, Navi Mumbai",
+    "interestedCrops": [
+      "Onion",
+      "Tomato",
+      "Grapes"
+    ],
+    "businessType": "Retail",
+    "password": "$2a$10$iRLLwGoWtHCPGOgFQ4l4xeMNBsU3BWGotsK.rG8d6SA3qnItCYUQO",
+    "userType": "buyer",
+    "language": "hi",
+    "isActive": true,
+    "businessLicense": "RTL-MAH-2023-002",
+    "establishedYear": 2018,
+    "createdAt": "2025-05-29T02:54:23.921Z"
+  },
+  {
+    "id": "suhas-buyer-id",
+    "name": "suhas",
+    "phone": "8618093520",
+    "businessName": "Suhas Trading Co",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "address": "Begum Bazaar, Hyderabad",
+    "interestedCrops": [
+      "Tomato",
+      "Onion",
+      "Rice"
+    ],
+    "businessType": "Wholesale",
+    "password": "$2a$10$5tPnwhbVNwAyqyW1RYPdF.cWYlVOvzIO8DoS.J6xKPOKv825bkB5C",
+    "userType": "buyer",
+    "language": "en",
+    "isActive": true,
+    "businessLicense": "WHL-TEL-2023-003",
+    "establishedYear": 2020,
+    "createdAt": "2025-05-29T02:54:24.129Z"
+  },
+  {
+    "id": "556e2b9a-65ba-42a4-8847-a4b719513602",
+    "name": "suhas",
+    "phone": "9756766237",
+    "businessName": "",
+    "interestedCrops": [
+      "Coffee",
+      "Coconut",
+      "Onion",
+      "Potato",
+      "Carrot",
+      "Chili",
+      "Turmeric"
+    ],
+    "location": "bangalore,karnataka",
+    "password": "$2a$10$M85LdWITxD0dTKJ.VUMwb.nO2mM05FQr8CWGwTeYW0ZQwM2FlWyPW",
+    "userType": "buyer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-05-29T03:04:41.415Z"
+  },
+  {
+    "id": "532727e4-23e7-41c6-8b35-d7145ff099c0",
+    "name": "Adithya s Bhat",
+    "phone": "9481126590",
+    "businessName": "",
+    "interestedCrops": [
+      "Rice",
+      "Wheat"
+    ],
+    "location": "Tumkur",
+    "password": "$2a$10$n6x/3A2UCKJ7mZOjRNFQdeI939qFZ2FjA62E6KMGtDWGDQWs.cBLG",
+    "userType": "buyer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-05-29T10:25:18.653Z"
+  },
+  {
+    "id": "79edcc25-3282-4c29-94fe-af51b3525765",
+    "name": "Manoj",
+    "phone": "6565789654",
+    "businessName": "",
+    "interestedCrops": [
+      "Potato",
+      "potao"
+    ],
+    "location": "Tumkur",
+    "password": "$2a$10$Sfa1PJ0LvJAeBmojQOgaS.7pNkEPFefF2sxn9zUx5b4zHAIW0wjVO",
+    "userType": "buyer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-05-29T13:48:34.640Z"
+  },
+  {
+    "id": "4a3fd481-b68b-40ae-8b51-35d7954ee6aa",
+    "name": "prateek",
+    "phone": "7975151789",
+    "businessName": "",
+    "interestedCrops": [
+      "Rice"
+    ],
+    "location": "Tumkur",
+    "password": "$2a$10$3gq6P7i.kgiChZX3HvvVDOIzQERuEVw9Sfy2YwlbBPaqoBZAqnjNy",
+    "userType": "buyer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-05-29T16:43:09.112Z"
+  }
+]

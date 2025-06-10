@@ -1,0 +1,112 @@
+[
+  {
+    "id": "e9980513-4242-447c-b6cc-1a0f88b4878a",
+    "name": "Ravi Kumar",
+    "phone": "9876543210",
+    "state": "Karnataka",
+    "district": "Kolar",
+    "address": "Village Mulbagal, Kolar District",
+    "crops": [
+      "Tomato",
+      "Onion",
+      "Potato"
+    ],
+    "password": "$2a$10$Dhmo.zR./OU2I0RUbeMX5uZHRXQKpXqTeLZi9/4lBHTEJrxAAhl/K",
+    "userType": "farmer",
+    "language": "en",
+    "isActive": true,
+    "verified": true,
+    "bankAccount": "1234567890123456",
+    "ifscCode": "SBIN0001234",
+    "experience": "15 years",
+    "farmSize": "5 acres",
+    "organicCertified": true,
+    "createdAt": "2025-05-29T02:54:23.318Z"
+  },
+  {
+    "id": "12cdf79d-cce1-45a5-96f7-46b4afe724ba",
+    "name": "Sita Devi",
+    "phone": "9876543211",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "address": "Lasalgaon, Nashik District",
+    "crops": [
+      "Onion",
+      "Grapes",
+      "Pomegranate"
+    ],
+    "password": "$2a$10$Rd.LgOMf1a6FomX1cS.49ObQQqq82ij7.vWrFe6HYjO/Y31QRx/7u",
+    "userType": "farmer",
+    "language": "hi",
+    "isActive": true,
+    "verified": true,
+    "bankAccount": "0987654321098765",
+    "ifscCode": "HDFC0001234",
+    "experience": "12 years",
+    "farmSize": "8 acres",
+    "organicCertified": false,
+    "createdAt": "2025-05-29T02:54:23.520Z"
+  },
+  {
+    "id": "84b49d53-2833-423a-a99b-48c709df869f",
+    "name": "Adithya s Bhat",
+    "phone": "9481126590",
+    "state": "Karnataka",
+    "district": "Shivamogga",
+    "crops": [
+      "Coconut"
+    ],
+    "password": "$2a$10$bdbVYZUDlnAGPzoX..Rj7euB8S8uqVcYRfjzK04eNyTGT.W.LtNYS",
+    "userType": "farmer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-05-29T10:22:40.594Z"
+  },
+  {
+    "id": "e120d643-5a61-4e7d-bac2-e5a08efd1ad2",
+    "name": "manoj",
+    "phone": "6360564623",
+    "state": "Karnataka",
+    "district": "raichur",
+    "crops": [
+      "Rice"
+    ],
+    "password": "$2a$10$LNWxdbKwxkIYBXrrSCR65ezVQO2jnSWC60mX0kLNUJG0jaShI.nja",
+    "userType": "farmer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-05-29T13:44:40.359Z"
+  },
+  {
+    "id": "ded8d15e-9937-4840-a1cc-f2e6fc2938cb",
+    "name": "prateek",
+    "phone": "7975151789",
+    "state": "Karnataka",
+    "district": "sirsi",
+    "crops": [
+      "Maize",
+      "Groundnut"
+    ],
+    "password": "$2a$10$cNrGo7630.7VtVcK9ZeWJetxVKm3jw4lZNX2N/pm.CVM4SSTXWDcu",
+    "userType": "farmer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-05-29T16:40:18.275Z"
+  },
+  {
+    "id": "c7cc50c5-4eeb-48b0-bdf5-0a42ba146fd4",
+    "name": "Karthik",
+    "phone": "8310859402",
+    "state": "Karnataka",
+    "district": "Chitradurga",
+    "crops": [
+      "Brinjal",
+      "Carrot"
+    ],
+    "password": "$2a$10$1jgolr5C7fdZnyuXl6egS.l9cf4jXx.EagZZRUT6FvIHs4HHOehWe",
+    "userType": "farmer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-05-30T08:48:32.383Z"
+  }
+]
